@@ -9,7 +9,7 @@ The SparkFun 970-HA-JOKES Payphone Art Project is a hacked payphone that allows 
 
 There are a series of easter eggs and silly jokes built throughout. 
 
-This repository contains the firmware that ran on the phone (look at '[Payphone Coin Collector](https://github.com/sparkfun/SparkFun-Payphone-Art-Project/tree/main/Payphone_Coin_Collector)'). Please check out the tutorial for the full rundown.
+This repository contains the firmware that ran on the phone (look at '[Payphone Coin Collector](https://github.com/sparkfun/SparkFun-Payphone-Art-Project/tree/main/Payphone_Coin_Collector)'). Please check out the [SparkFun tutorial](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project) for the full rundown.
 
 License Information
 -------------------
